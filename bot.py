@@ -41,11 +41,11 @@ sent_suppressions: set[str] = set()
 last_body: dict[str, str] = {}
 
 METADATA = {
-    "team_name": "VeraPrime",
+    "team_name": "Guneet Toppo",
     "team_members": ["Guneet Toppo"],
     "model": "deterministic-rule-composer-v2 (no LLM)",
     "approach": "4-context grounded composition; dispatch by trigger.kind with per-kind strategies + generic grounded fallback for injected/unseen kinds",
-    "contact_email": "guneet@example.com",
+    "contact_email": "guneettoppo_23cs160@dtu.ac.in",
     "version": "2.2.0",
     "submitted_at": "2026-04-26T08:00:00Z",
 }
